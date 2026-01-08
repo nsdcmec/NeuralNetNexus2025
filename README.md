@@ -2,13 +2,19 @@
 
 Instructions: 
 
-1) Fork the repo (https://github.com/nsdcmec/NeuralNetNexus2024) and create a branch with your team name. 
+1) Fork the repo (https://github.com/nsdcmec/NeuralNetNexus2024) and create a branch with your team name.
 
-2) Make sure you name your model the team name
+2) Submit the notebook and the model in a folder. Ensure the folder is named same as your team.
 
-3) ensure that the model is saved in .joblib format
+3) Make sure you name your model the team name
 
-4) Submit the notebook and the model in the same directory
+4) Ensure that the model is saved in .joblib format
+
+5) The folder must consist of the following files:
+   a) the model
+   b) the notebook
+   c) the final submistted csv file
+   d) the screenshot of the accuracy score from the private leaderboard
 
 Please ensure that the above instructions are followed before you create the pull request.
 
