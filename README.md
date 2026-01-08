@@ -6,7 +6,9 @@ Instructions:
 
 2) Make sure you name your model the team name
 
-3) ensure that the model is saved in .joblib format 
+3) ensure that the model is saved in .joblib format
+
+4) Submit the notebook and the model in the same directory
 
 Please ensure that the above instructions are followed before you create the pull request.
 
