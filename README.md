@@ -2,7 +2,7 @@
 
 Instructions: 
 
-1) Fork the repo (https://github.com/nsdcmec/NeuralNetNexus2024) and create a branch with your team name.
+1) Fork the repo (https://github.com/nsdcmec/NeuralNetNexus2025) and create a branch with your team name.
 
 2) Submit the notebook and the model in a folder. Ensure the folder is named same as your team.
 
