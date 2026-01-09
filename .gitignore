@@ -1,0 +1,4 @@
+.vscode/
+venv/
+compare.csv
+answer.csv
